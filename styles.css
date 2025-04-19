@@ -35,3 +35,13 @@ p {
   height: auto;
   margin-top: 1rem;
 }
+
+.flywheel {
+  margin-top: 3rem;
+}
+
+.flywheel img {
+  max-width: 90%;
+  height: auto;
+  margin-top: 1rem;
+}
